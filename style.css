@@ -14,5 +14,7 @@ img {
 
 .tituloprincipal{
     text-align: center;
+    background-color: #1D5273 ;
+    color: #F2E0BD;
     font-size: 60px;
 }
